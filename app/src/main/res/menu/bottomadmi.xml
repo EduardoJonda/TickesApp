@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_consulta"
+        android:title="	Consultar "
+        android:icon="@android:drawable/ic_menu_info_details" />
+
+    <item
+        android:id="@+id/menu_asignar"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Asignar"
+        />
+
+    <item
+        android:id="@+id/menu_report"
+        android:title="Reporte"
+        android:icon="@android:drawable/ic_menu_report_image"
+        />
+
+</menu>

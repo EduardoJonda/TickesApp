@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TickesApp</string>
+    <string name="titulo">Iniciar Session</string>
+    <string name="n1">TickesApp</string>
+    <string name="registro">Resgistrar</string>
+    <string name="consultaEstado">Consulta de Estado</string>
+    <string name="Consulta">Consulta</string>
+    <string name="Atencion">Atencion</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Configuracion">Configuracion</string>
+    <string name="Cerrarsession">Cerrar session</string>
+</resources>

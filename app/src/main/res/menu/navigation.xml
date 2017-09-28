@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_nav_main"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_perfil"
+            android:checked="true"
+            android:icon="@android:drawable/ic_menu_crop"
+            android:title="@string/Perfil" />
+
+        <item
+            android:id="@+id/nav_config"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/Configuracion" />
+
+        <item
+            android:id="@+id/nav_cerrarsesion"
+            android:icon="@android:drawable/ic_menu_close_clear_cancel"
+            android:title="@string/Cerrarsession" />
+
+    </group>
+
+</menu>
